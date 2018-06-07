@@ -6,9 +6,9 @@ Working DS professionals that want to become polyglot. There is debate about the
 
 ### Opinionated Pre-Requisites
 
-- git
-- viz
-- written functions
+- have used git
+- can create data visualizations
+- have written functions
 - done ML
 
 ## Focus
@@ -25,6 +25,14 @@ Working DS professionals that want to become polyglot. There is debate about the
     - pip
     - virtualenv
     - docker
+2. Handy Language Bits (I'm uncertain if this should be in "Gotchas")
+    - how to access docstrings
+    - interactive REPLS and autocomplete
+    - R handy bits
+        + `?function`
+        + `function`
+        + `function()`
+    - Python handy bits
 2. Getting Data
     - csv
     - DBs
@@ -41,6 +49,7 @@ Working DS professionals that want to become polyglot. There is debate about the
     - classes
     - dispatch
     - inheritance
+    - unit testing?
 4. Analytics & Stats
 5. Viz
 6. Notebooks
